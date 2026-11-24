@@ -3,7 +3,7 @@ title: "Musika at Pananampalataya"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/elysavmusic.jpg
 ---
 
 Marami akong oras na ginugugol sa pakikinig sa mga musikero sa Instagram. Ito ang ilan sa mga pinakikinggan ko nitong mga nakaraan.
@@ -14,70 +14,68 @@ May ginawang katulad si Pablo sa Atenas. Ginamit niya ang kanilang tula at ang k
 
 Hindi silang lahat ay umaawit ng worship songs. Karamihan sa kanila ay umaawit lang tungkol sa buhay, at bahagi nito ang pananampalataya. Iyon ang gusto ko sa kanila. Pindutin mo ang isang card para mapanood ang kanta sa Instagram.
 
-Gumawa rin ako ng reaction video sa bagong kanta ni SonReal. Mapapanood mo ito dito:
-
-[Ang reaction ko sa bagong video ni SonReal](https://www.youtube.com/shorts/wePjZMr6beE)
+Ang mga kantang ito ay sa Tagalog. Ito ang mga musikero na umaawit sa Tagalog — ang ilan ay umaawit ng worship songs, ang iba ay umaawit tungkol sa buhay, at bahagi nito ang pananampalataya.
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">Isang nakakatawa at puno ng pag-asang rap tungkol sa pagkilala sa magandang musika kapag narinig mo ito. Huwag mong husgahan ang libro sa pabalat nito.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DaNN0mMxLkA/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/elysavmusic.jpg" alt="Elysa V." loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Elysa V.</span>
+<span class="ig-card__note">Kanyang worship single na 'Anghel' sa Tagalog.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">“Magtatabi ako ng upuan para sa iyo.” Isang malumanay na kanta, at isang bakanteng upuan.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DYmXL9wSUIF/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/ogiealcasid.jpg" alt="Ogie Alcasid" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Ogie Alcasid</span>
+<span class="ig-card__note">Umaawit ng 'Ikaw ang aking Pahinga' sa Tagalog.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">Ang kanta niyang “Notice” ay lumabas na sa wakas, mahigit isang taon matapos niya itong unang tugtugin.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DZA04kKMRNF/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/yeng.jpg" alt="Yeng Constantino" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Yeng Constantino</span>
+<span class="ig-card__note">Umaawit ng worship sa isang crusade.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">“Your Heart in the Fire” — lo-fi folk mula sa Hilaga, tapat, sanay sa hirap, hilaw.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DaVdiwEq_QX/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/acelbisavanommen.jpg" alt="Acel" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Acel</span>
+<span class="ig-card__note">Ang orihinal niyang Tagalog song na 'Buhangin'.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">Ibinigay niya ang buhay niya sa Diyos noong nakaraang taon. Ngayon gusto niyang ikuwento ang kanyang buhay, at purihin Siya habang ginagawa iyon.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DPJYfCmkvei/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/justinjtaller.jpg" alt="Justin Taller" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Justin Taller</span>
+<span class="ig-card__note">Cover ng 'Tanging Kailangan' ng Victory Worship.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">Ang bago niyang kantang “Not Alone”, at isang silid sa San Francisco na inaawit ang bawat salita.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DIPtifPx9Cb/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/christineskylemusic.jpg" alt="Christine Soriano" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Christine Soriano</span>
+<span class="ig-card__note">'Song for our Lord' — isang awit ng pagsamba.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">“Secret Fort” — mga araw ng pagkabata sa likod ng simbahan, mga kampana sa gabi, matalik na kaibigan at mga mundong gawa-gawa lang.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DN1zuN05vZw/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/xerxesrubio16.jpg" alt="Xerxes Rubio" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Xerxes Rubio</span>
+<span class="ig-card__note">Umaawit ng worship mula sa kanyang tahanan.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">Isang bagong kanta mula sa Lucas 15, ang alibughang anak. “Let Me Go”.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DcNpVXtRrjC/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/emrysari.jpg" alt="Emrys Ari" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Emrys Ari</span>
+<span class="ig-card__note">Isang Tagalog devotional song tungkol sa pananampalataya.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">“Mabait si Jesus. Ang tour ay isang regalo.” Ang mga kanta niya, tinugtog sa bahay.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DcTCAxczQ6R/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/katetorrestv.jpg" alt="Kate Torres" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Kate Torres</span>
+<span class="ig-card__note">Umaawit ng worship habang tumutugtog ng gitara.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">Ang kanta niyang “keep going” — mapangarapin na retro Jesus music, lumabas na ngayon.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DTDeb7tk138/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/iamjulsalcantara.jpg" alt="Juls Alcantara" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Juls Alcantara</span>
+<span class="ig-card__note">Umaawit ng contemporary worship sa Tagalog.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">“Lahat ay may kilalang nangangailangang makarinig tungkol kay Jesus.”</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DPQs4AoESKm/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/gloryfallph.jpg" alt="gloryfall" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">gloryfall</span>
+<span class="ig-card__note">Isang worship performance mula sa studio.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">Mga kanta tungkol sa kanyang paglalakbay sa kalusugang pangkaisipan. At pop punk din sila.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DSQ9OJaEr4i/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/teamthebeloved.jpg" alt="The Beloved" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">The Beloved</span>
+<span class="ig-card__note">Umaawit ng worship sa labas, kasama ang gitara.</span></span>
 </a>
 </div>
 
