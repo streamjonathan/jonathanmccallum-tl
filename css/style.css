@@ -316,3 +316,6 @@ button[type="submit"] {
 .ig-card picture img, .ig-card__img { width: 100%; height: 100%; object-fit: cover; }
 .ig-card__name { display: block; font-family: "Fraunces", Georgia, "Iowan Old Style", "Times New Roman", serif; font-weight: 600; font-size: 1.05rem; }
 .ig-card__note { display: block; color: var(--muted); font-size: 0.95rem; margin-top: 0.15rem; }
+
+/* Translation note shown at the top of article pages (also in the footer). */
+.translation-note--top { font-size: 0.9rem; color: var(--muted); margin: 0.5rem 0 0; }
