@@ -20,6 +20,7 @@ eleventyExcludeFromCollections: true
 
 <section class="featured" data-fade aria-labelledby="featured-heading">
   <h2 id="featured-heading">Pinakabagong mga sulat</h2>
+  <p class="featured-row__hint">Higit pang bagong sulat — mag-swipe para sa susunod <span aria-hidden="true">→</span></p>
   <ul class="featured-row" data-auto-carousel>
   {% for post in collections.publishedPosts | reverse %}
     {% if loop.index <= 10 %}
@@ -54,6 +55,7 @@ eleventyExcludeFromCollections: true
 <hr class="rule-gold">
 <section class="watch-section" data-fade aria-labelledby="watch-heading">
   <h2 id="watch-heading">Panoorin</h2>
+  <p class="row-hint">Higit pang video — mag-swipe para sa susunod <span aria-hidden="true">→</span></p>
   <ul class="watch-row">
   {% set shown = [] %}
   {% for post in collections.publishedPosts | reverse %}
